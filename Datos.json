@@ -1,0 +1,70 @@
+[
+    {
+        "Modelo":"Iphone 14",
+        "Marca":"Apple",
+        "Imagen":"https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-2up-blue-220907-geo_inline.jpg.large.jpg",
+        "Precio": 16.999,
+        "Colores":"Azul, Morado, Amarillo, Negro, Rojo."
+    },
+    {
+        "Modelo":"Iphone 15 Pro",
+        "Marca":"Apple",
+        "Imagen":"https://specificationsplus.com/wp-content/uploads/2023/02/iPhone-15-Pro-Specifications-Plus.jpg",
+        "Precio": 23.999,
+        "Colores":"Titanio natural, Titanio Azul."
+        
+    },
+    {
+        "Modelo":"Iphone 11",
+        "Marca":"Apple",
+        "Imagen":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/2005693147337.jpg",
+        "Precio": 8.000,
+        "Colores":"Azul, Morado, Amarillo, Negro, Rojo."
+        
+    },
+    {
+        "Modelo":"Iphone 12",
+        "Marca":"Apple",
+        "Imagen":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/2005696934637.jpg",
+        "Precio": 11.539,
+        "Colores":"Azul, Morado, Amarillo, Negro, Rojo."
+        
+    },
+    {
+        "Modelo":"S23 ULTRA",
+        "Marca":"Samsung",
+        "Imagen":"https://m.media-amazon.com/images/I/61EOZKXPT1L._AC_UF894,1000_QL80_.jpg",
+        "Precio": 25.000,
+        "Colores":"Negro , Lila"
+    },
+    {
+        "Modelo":"Galaxy Z Flip5",
+        "Marca":"Samsung",
+        "Imagen":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/2005674097699.jpg",
+        "Precio": 25.000,
+        "Colores":"Verde, Morado, Azul."
+    },
+    {
+        "Modelo":"Galaxy A14",
+        "Marca":"Samsung",
+        "Imagen":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/2005667135773.jpg?scale=550",
+        "Precio": 5.450,
+        "Colores":"Verde, Morado, Azul, Negro."
+    },
+    {
+        "Modelo":"Galaxy A54",
+        "Marca":"Samsung",
+        "Imagen":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/2005672043643.jpg",
+        "Precio": 8.999,
+        "Colores":"Verde, Morado, Azul, Negro."
+    },
+    {
+        "Modelo":"Galaxy z Fold",
+        "Marca":"Samsung",
+        "Imagen":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/2005674127457_2.jpg",
+        "Precio": 42.999,
+        "Colores":"Crema, Blanco, Negro."
+    }
+   
+
+]
